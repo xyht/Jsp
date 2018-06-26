@@ -5,9 +5,9 @@ jsp期末作业
 登录名被设定为只能使用数字
 ![image](https://github.com/xyht/jsp/raw/master/imgs/1.png)
 ![image](https://github.com/xyht/jsp/raw/master/imgs/2.png)
-![image](https://github.com/xyht/jsp/raw/master/imgs/2.png)
-![image](https://github.com/xyht/jsp/raw/master/imgs/2.png)
-![image](https://github.com/xyht/jsp/raw/master/imgs/2.png)
-![image](https://github.com/xyht/jsp/raw/master/imgs/2.png)
+![image](https://github.com/xyht/jsp/raw/master/imgs/3.png)
+![image](https://github.com/xyht/jsp/raw/master/imgs/4.png)
+![image](https://github.com/xyht/jsp/raw/master/imgs/5.png)
+![image](https://github.com/xyht/jsp/raw/master/imgs/6.png)
 ![image](https://github.com/xyht/jsp/raw/master/imgs/7.png)
 ![image](https://github.com/xyht/jsp/raw/master/imgs/8.png)
