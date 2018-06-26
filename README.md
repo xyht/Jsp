@@ -3,7 +3,7 @@ jsp期末作业
 一个企业的首页
 由java作为后台，提供登陆方法以及新闻内容
 登录名被设定为只能使用数字
-![](http://github.com/xyht/jsp/raw/master/imgs/1.png)
+![image](http://github.com/xyht/jsp/raw/master/imgs/1.png)
 
 1
 
